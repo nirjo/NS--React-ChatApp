@@ -1,1 +1,1 @@
-# NS--React-ChatApp
+# NS-React-ChatApp
